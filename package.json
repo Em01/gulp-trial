@@ -26,10 +26,13 @@
   },
   "devDependencies": {
     "gulp": "^3.9.0",
+    "gulp-if": "^1.2.5",
     "gulp-jscs": "^2.0.0",
     "gulp-jshint": "^1.11.2",
+    "gulp-print": "^1.1.0",
     "gulp-util": "^3.0.6",
     "jshint-stylish": "^2.0.1",
-    "util": "^0.10.3"
+    "util": "^0.10.3",
+    "yargs": "^3.24.0"
   }
 }
