@@ -16,6 +16,10 @@ gulp.task('vet', function() {
 		.pipe($.jshint.reporter('fail'));
 });
 
+gulp.task('styles', function(){
+
+});
+
 ///////////
 function log(msg) {
 	if (typeof(msg) === 'object') {
